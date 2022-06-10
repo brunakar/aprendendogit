@@ -5,5 +5,5 @@ repositório para treino
 ### Lista de compras 
 
 * arroz
-* feijão 
+* ~~feijão~~ 
 * brócolis
