@@ -1,6 +1,9 @@
-# aprendendogit
+# Aprendendo git 
 
-lista de compras
-arroz
-feijao 
-brocolis
+repositório para treino 
+
+### Lista de compras 
+
+* arroz
+* feijão 
+* brócolis
